@@ -1,0 +1,14 @@
+client-out (7): ChallengeMsg(1022)
+client-in (1011): ResponseMsg(132953)
+Challenges.verifyChallenge:130 real(1): expected:  b84a4136  actual:  b84a4136
+Challenges.createChallenge:180 VerifierChallenge[pos: 1, challenge: c29ee377, hash: e3236e07, isSent: false]
+Challenges.createChallenge:180 VerifierChallenge[pos: 1, challenge: 0cc4778f, hash: 3e97c052, isSent: false]
+Challenges.createChallenge:180 VerifierChallenge[pos: 1, challenge: f9653a45, hash: 71257e86, isSent: false]
+PoRStruct.update:211 PreImage [msg: 213fae23, sigma: a4075462, delta: 5678ba2c]
+PoRStruct.update:212 before: 8f944ab8
+PoRStruct.update:213 after: 8f944ab8
+client-out (8): UpdateMsg(131855)
+client-in (1012): SuccessMsg(194)
+rootHash: 6ce0d80e
+block position: 1
+file successfully updated!
