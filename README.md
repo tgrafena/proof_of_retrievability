@@ -1,3 +1,14 @@
+# Authors
+
+This project was implemented by:
+
+Martin Fillafer <martin.fillafer@edu.aau.at>
+Thomas Grafenauer <thomas.grafenauer@edu.aau.at>
+
+with the support of:
+
+Stefan Rass <stefan.rass@aau.at>
+
 # Description
 
 This project is a contribution to the paper "Dynamic proofs of retrievability from Chameleon-Hashes" by Stefan Rass:
@@ -6,9 +17,9 @@ S. Rass, "Dynamic proofs of retrievability from Chameleon-Hashes," 2013 Internat
 keywords: {Cloud computing;Cryptography;Encoding;Error correction codes;Protocols;Servers;Cloud Storage;Data Availability;Proofs of Retrievability;Security},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7223178&isnumber=7223120
 
-Me and my colleague Martin Fillafer implemented the project as a console tool. To build the project we used Maven.
+We implemented the project as a console tool in Java and used Maven to build it.
 In order to use the tool, open a console, move to the project directory and type in the PoR-commands described below.
-With "./por" one gets a usages description printed in the console.
+With "./por" you get a usages description printed in the console.
 For more details on how the project is structured and used please have a look at the "USAGE_AND_DESCRIPTION.pdf".
 
 # PoR
