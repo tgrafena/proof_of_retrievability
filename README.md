@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This project is a contribution to the paper "Dynamic proofs of retrievability from Chameleon-Hashes" by Stefan Rass:
 
