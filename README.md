@@ -2,7 +2,7 @@
 
 This project was implemented by:
 
-Martin Fillafer <martin.fillafer@edu.aau.at> \n
+Martin Fillafer <martin.fillafer@edu.aau.at> and 
 Thomas Grafenauer <thomas.grafenauer@edu.aau.at>
 
 with the support of:
