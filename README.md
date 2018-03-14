@@ -2,8 +2,8 @@
 
 This project was implemented by:
 
-Martin Fillafer <martin.fillafer@edu.aau.at> and 
-Thomas Grafenauer <thomas.grafenauer@edu.aau.at>
+Thomas Grafenauer <thomas.grafenauer@edu.aau.at> and 
+Martin Fillafer <martin.fillafer@edu.aau.at>
 
 with the support of:
 
